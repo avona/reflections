@@ -1,0 +1,43 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+ Using the "diff" command helped to find a bug faster and easily. It also helps to see which line and which characters have changed. 
+ It helps to save a lot of time.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+ In the long term, having an easy access to the entire history helps to find the typos of mistakes much faster. Thus, saving a lot 
+ of time of the development process for a programmer.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having version automatically
+saved, like Google Docs does?
+
+ Saving manually is more preferred for a developer because, he/she controls what and when to save. However, a developer must be vigilant
+ about commits because s/he may forget about it or commit too often.
+ Automatically saving the changes bears one major drawback - saving everything and unnecessary things. Automatic commits risk running too
+ many saves or too few.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs,
+treat each file separately?
+
+ Git is designed to be a flexible tool for developers, therefore, it has a functionality to save multiple files in one commit. While other
+ VCSs like Google Docs doesn't provide this functionality of saving multiple files in one commit because this product is designed for
+ regular users and not necessarily for developers.
+
+How can you use the commands git log and git diff to view the history of files?
+
+ git log - outputs the whole history of commits sorted in the latest last order
+ git diff - outputs the difference between the two commits
+
+How might using version control make you more confident to make changes that could break something?
+
+ Using version control enables developers to revert to the older version of code in case in newer version a bug was introduced. Which brings
+ the software to the bugless state and developers can either start developing a bug free updates from scratch or find the bug and fix it.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+ I'd like to practise Git's other functions on real projects and get my hands used to working with Git.
+
+
+
+
+
