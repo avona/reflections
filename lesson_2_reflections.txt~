@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+ When a repository is initialized using 'git init' the .git file is created that contains the 
+ metadata about the initialized git directory. Initialization of a git directory is needed
+ for starting keeping track of the changes made to the files within that repository.
