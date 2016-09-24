@@ -10,3 +10,27 @@ do you think it offers?
  The staging area is the intermediate step between adding files to commit and the repository.
  The staging area is like a buffer, i.e. it allows adding more files into a "bucket" before
  making a single commit. 
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+ The staging area can be viewing for content, i.e. which files are staged for commit and
+ whether the files for commit in the staging area correspond to the same logical change.
+
+What are some situations when branches would be helpful in keeping your history organized?
+How would branches help?
+
+ In case if an experimental functionality is being introduced, but it's not mandatory
+ to implement it, a new branch would serve that purpose. It's possible to create a number
+ of different branches and in case if one or some of them are to be actually implemented,
+ it's possible to do so by merging desired branches with the master branch.
+
+How do the diagrams help you visualize the branch structure?
+
+ The diagrams help to see the history of the created commits in the branches. 
+
+What is the result of merging two branches together? Why do we represent it in the diagram
+the way we do?
+
+ Merging two branches combines commits into one branch. All the commits are sorted in a
+ date-time order. It's useful to see the diagram of the merged branches so that the logs
+ (commits) of all the branches are visualized.
