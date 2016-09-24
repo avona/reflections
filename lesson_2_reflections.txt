@@ -34,3 +34,7 @@ the way we do?
  Merging two branches combines commits into one branch. All the commits are sorted in a
  date-time order. It's useful to see the diagram of the merged branches so that the logs
  (commits) of all the branches are visualized.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+ Automatic merging allows combining branches automatically, thus saves time. However,
+ automatic merging may fail and require resolving the conflict by doing manual merging.
