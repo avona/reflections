@@ -32,3 +32,12 @@ would be harder?
   sharing them without Git. Nothing comes to my mind that would make collaboration
   easier without Git or GitHub.
   
+When would you want to make changes in a separate branch rather than directly in 
+master? What benefits does each approach have?
+
+  Making changes directly in master branch imposes errors and bugs on the project,
+  especially if it's live. Making changes in a separate branch is more safe because
+  it allows implementing changes and tests on a different version of the project.
+  Changing the master branch directly is easier, i.e. it doesn't require manual
+  merging of branches and eliminates merge conflicts, however, this can be practised
+  when one is absolutely confident that the changes in master branch are safe.
