@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+  A remote repository is useful for storing the commits online so that it's not dependant
+  on a particular computer. A remote repository given access can be accessible from any
+  computer/location.
