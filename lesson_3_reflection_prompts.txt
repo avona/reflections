@@ -1,4 +1,12 @@
 When would you want to use a remote repository rather than keeping all your work local?
+  
   A remote repository is useful for storing the commits online so that it's not dependant
   on a particular computer. A remote repository given access can be accessible from any
   computer/location.
+
+Why might you want to always pull changes manually rather than having Git automatically
+stay up-to-date with your remote repository?
+  
+  Manually pulling commits allows developers to keep track of what has been changed in
+  a particular repository. Automatic updates of the Git repository may complicate the
+  tracking of the changes.
