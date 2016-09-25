@@ -10,3 +10,10 @@ stay up-to-date with your remote repository?
   Manually pulling commits allows developers to keep track of what has been changed in
   a particular repository. Automatic updates of the Git repository may complicate the
   tracking of the changes.
+
+Describe the differences between forks, clones, and branches. When would you use one
+instead of another?
+
+  Forks is used for cloning the remote repository into another remote repository in Github.
+  While clones are used for copying the remote/local repository into another local 
+  repository. Branches are used for copying an existing repository withing the same repo.
