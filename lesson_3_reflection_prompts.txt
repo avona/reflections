@@ -22,3 +22,13 @@ What is the benefit of having a copy of the last known state of the remote store
 
   Storing the latest copy of the remote locally eliminates the possibility of future
   manual resolving of conflicts when merging two branches.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what
+would be harder?
+
+  Collaborating without Git or GitHub would be a bit harder. I would opt either for
+  another CVSs or just manually save every major version of changes and share it with
+  other collaborators. It would be harder to compare the differences of the files and
+  sharing them without Git. Nothing comes to my mind that would make collaboration
+  easier without Git or GitHub.
+  
