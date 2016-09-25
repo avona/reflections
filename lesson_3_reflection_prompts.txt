@@ -17,3 +17,8 @@ instead of another?
   Forks is used for cloning the remote repository into another remote repository in Github.
   While clones are used for copying the remote/local repository into another local 
   repository. Branches are used for copying an existing repository withing the same repo.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+  Storing the latest copy of the remote locally eliminates the possibility of future
+  manual resolving of conflicts when merging two branches.
